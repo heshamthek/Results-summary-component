@@ -1,0 +1,135 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+main{
+   
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 800px;
+    align-items: center;
+    background-color: rgb(253, 253, 253);
+    border-radius: 3em;
+  
+    flex-wrap: wrap;
+    gap: 1em;
+}
+.left{
+    background-color: hsl(252, 100%, 67%);
+    height:600px;
+width: 400px;
+border-radius: 3em;
+display: flex;
+flex-direction: column;
+align-items: center;
+flex-wrap: wrap;
+
+}
+.ur{
+    margin-top: 1.6em;
+    font-size: 2em;
+    color: aliceblue;
+    font-family: "Hanken Grotesk", sans-serif;
+}
+.degg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   justify-content: space-evenly;
+   margin-top:0.3em;
+   color: aliceblue;
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+    background: linear-gradient(0deg,hsla(241, 72%, 46%, 0) 0%, hsla(256, 72%, 46%, 1) 100%);
+   font-size: 6em;
+  
+   font-family: "Hanken Grotesk", sans-serif;
+}
+.of{
+    font-size: 20px;
+}
+.great{
+    font-family: "Hanken Grotesk", sans-serif; 
+    color: aliceblue;
+    margin-top: 1em;
+    font-size: 2em;
+}
+.u{
+    font-family: "Hanken Grotesk", sans-serif; 
+    margin-top: 2em;
+    color: aliceblue;
+    width:250px;
+font-size: 1.1em;
+}
+.right{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+   padding-bottom: 4em;
+}
+
+.sum{
+    font-family: "Hanken Grotesk", sans-serif; 
+font-size: 2em;
+
+}
+.rec{
+    font-family: "Hanken Grotesk", sans-serif; 
+    font-size: 1.3em;
+   background:hsla(0, 100%, 67%, 0.171);
+   padding: 15px;
+   border-radius: 1em;
+   margin-top: 1em;
+width: 13em;
+
+}
+.mem{
+    font-family: "Hanken Grotesk", sans-serif; 
+    font-size: 1.3em;
+   background: hsla(39, 100%, 56%, 0.245);
+   padding: 15px;
+   border-radius: 1em;
+   margin-top: 1em;
+width: 13em;
+
+
+}
+.ver{
+    font-family: "Hanken Grotesk", sans-serif; 
+    font-size: 1.3em;
+   background: hsla(166, 100%, 37%, 0.247);
+   padding: 15px;
+   border-radius: 1em;
+   margin-top: 1em;
+width: 13em;
+
+}
+.vis{
+   
+    font-family: "Hanken Grotesk", sans-serif; 
+    font-size: 1.3em;
+   background: hsla(234, 85%, 45%, 0.2);
+   padding: 15px;
+   border-radius: 1em;
+margin-top: 1em;
+width: 13em;
+
+}
+.con{
+    font-family: "Hanken Grotesk", sans-serif; 
+    font-size: 1.3em;
+   background: hsl(210, 3%, 14%);
+   padding: 15px;
+   border-radius: 1em;
+margin-top: 1em;
+width: 13em;
+color: white;
+
+margin-left: 10px;
+}
+.ll{
+    margin-left: 70px;
+}
